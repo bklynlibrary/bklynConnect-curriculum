@@ -28,6 +28,9 @@ prose:
     - /js
     - /css
 
+plugins:
+  - kramdown
+
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#c57e52"

@@ -34,6 +34,23 @@ place you can pull the purpose and focus of your curriculum.
 
 Here is where you will envision what you want learners to experience and achieve through your curriculum. This is often the most difficult step because these goals serve as the foundation for both the curriculum outline as well as the lesson plans. When articulating goals, think about where learners need to end up. Goals should be stated in terms of the learner’s knowledge, behavior, and attitude and should be realistically attainable within the time and space you have to teach. Goals need to have actions, specific knowledge, and experiences identified that will lead you in guiding learners to the purpose of the curriculum. The whole curriculum design process is working backward from your goals.
 
+<div class="BC-example">
+	
+	<h3>BklynConnect's Goals</h3>
+
+	<em>Where do you want learners to end up? What do you want them to achieve and experience?</em>
+
+	<ul>
+		<li>Learners will build their own portable mesh network at a neighborhood scale.</li>
+		<li>Learners will discover how the internet is governed, and by whom. </li>
+		<li>Learners will gain greater control over what personal data they share everyday, in a way that is personally appropriate for them.</li>
+		<li>Learners will create websites that teach an intergenerational audience about an issue that affects the community. </li>
+		<li>Learners will demystify the growing role of algorithms in their everyday lives, and the political challenges to keeping these algorithms and their authors accountable.</li>
+		<li>Learners will develop job skills and the skills to self-educate.</li>
+	</ul>
+
+</div>
+
 ### III. Desired Understandings
 
 Desired Understandings are what learners will need to understand in order to achieve the goals of the curriculum. Wiggins and McTighe suggest the following “filters” for arriving at worthwhile understandings:
@@ -48,6 +65,33 @@ misunderstood ideas).
 
 To help think through desired understandings, ask yourself: 
 What are my own understandings (of myself, the world, this discipline/topic) that inform the goals I’ve set? These are the understandings you want to share and cultivate. 
+
+<div class="BC-example">
+	
+	<h3>BklynConnect's Desired Understandings</h3>
+
+	<em>What are the understandings your goals are based upon? What do learners need to understand in order to reach the goals?</em>
+
+	<ul>
+		<li>Learners will understand broadly how data travels from personal device to personal device through the internet.</li>
+		<li>Learners will discover civic processes for regulating the internet and personal data, from the local level to the global level.</li>
+		<li>Learners will understand implications of algorithms on news, credit, advertising, sentencing, and policing.</li>
+		<ul>
+			<li>Learners will understand what an algorithm is.</li>
+			<li>Learners will understand how legal and illegal data markets work.</li>
+		</ul>
+		<li>Learners will understand how to build and deploy a basic webpage for themselves or local organizations and businesses.</li>
+		<ul>
+			<li>Learners will understand what open source development is, and how to use version control software like GitHub.</li>
+			<li>Learners will understand how to create an HTML document.</li>
+			<li>Learners will understand how to style HTML documents with CSS.</li>
+			<li>Learners will understand how hosting works, and about the different options for hosting webpages.</li>
+		</ul>
+		<li>Learners will understand how to build (and maintain) a portable network kit and a basic wirelessmesh network.</li>
+		<li>Learners will understand how to self-educate by accessing learning resources online, through the library, and through community networks.</li>
+	</ul>
+
+</div>
 
 ### IV. Overarching Essential Questions
 
