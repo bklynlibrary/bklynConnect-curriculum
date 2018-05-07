@@ -116,6 +116,19 @@ To get started, think through how the desired
 understandings and goals will impact the purpose/focus 
 of your curriculum. 
 
+<div class="BC-example">
+	
+	<h3>BklynConnect's Overarching Essential Questions</h3>
+
+	<em>What are the questions derived from the goals that frame the curriculum?</em>
+
+	<ul>
+		<li>How can communications infrastructure be designed and deployed in a way that empowers Brownsville residents?</li>
+		<li>How does surveillance operate every day in Brownsville, and what can young people do to protect themselves and to make their voices heard?</li>
+	</ul>
+
+</div>
+
 ### V. Supporting Essential Questions
 
 Supporting essential questions are a series of sub-questions that allow you to investigate the overarching 
@@ -123,6 +136,21 @@ essential questions. They help break down the essential questions into tangible 
 
 Generating at least four supporting questions will help you understand the scope of work and capacity needed 
 to implement your curriculum, because these are the questions that will be guiding discussions and activities.
+
+<div class="BC-example">
+	
+	<h3>BklynConnect's Supporting Essential Questions</h3>
+
+	<em>What are the questions that facilitate thinking and learning about the ideas and skills required to achieve the goals?</em>
+
+	<ul>
+		<li>What defines a community or neighborhood network, and how is it different from other networks? </li>
+		<li>What is the potential impact of a community wireless network, and/or free wireless internet access?</li>
+		<li>What choices can we make about how we deploy a wireless network, and how do they impact different members of the community?</li>
+		<li>What are the ways that data about people in our community has been used in ways that are harmful, or deceptive? How can we productively use data about our community?</li>
+	</ul>
+
+</div>
 
 ### VI. Knowledge and Skills
 
@@ -138,6 +166,38 @@ tasks?
 - What relevant skills (processes, procedures, 
 strategies) and experiences will learners walk 
 away with?
+
+<div class="BC-example">
+	
+	<h3>BklynConnect's Required Knowledge</h3>
+
+	<em>What is the content you will share? What is key for learners to know? What information do they need to acquire in order to investigate the questions?</em>
+
+	<p>Learners will know or understand:</p>
+	<ul>
+		<li>How WiFi equipment communicates through the air.</li>
+		<li>How mesh networks are different than other typs of networks, and why we use them in community wireless networks.</li>
+		<li>How the internet works and what it&rsquo;s made of.</li>
+		<li>How wireless signals work.</li>
+		<li>Basic community organizing strategies. </li>
+		<li>The principles of co-design and design justice.</li>
+	</ul>
+
+	<h3>BklynConnect's Required Skills</h3>
+
+	<em>What do learners need to be able to do? What skills and practices will they need to develop in order to achieve the goals?</em>
+
+	<p>Learners will know or understand how to:</p>
+	<ul>
+		<li>Create basic websites.</li>
+		<li>Fork and modify local versions of open source projects on GitHub.</li>
+		<li>Install and maintain temporary mesh infrastructure.</li>
+		<li>Find online and in-person courses for technology topics they are interested in.</li> 
+		<li>Utilize library resources to achieve educational goals</li>
+	</ul>
+
+
+</div>
 
 ### VII. Performance Tasks
 
@@ -161,3 +221,20 @@ is measured when learners ...
 Think about what you’ll have learners do to evaluate and document what learning has been achieved. 
 
 Allowing learners to perform and present their learning at the beginning of a curriculum will ensure a learner-centered curriculum with effective assessment built in. 
+
+<div class="BC-example">
+	
+	<h3>BklynConnect's Performance Tasks</h3>
+
+	<em>What will you have learners do that show they understand the material? How will you evaluate learning?</em>
+
+	<ul>
+		<li>Learners will be able to launch a standalone website on a topic of their choosing.</li>
+		<li>Learners will be able to write interview and survey questions that elicit community sentiments and needs around technology.</li>
+		<ul>
+			<li>Learners will be able to synthesize learnings from the community into choices about technology.</li>
+		</ul>
+		<li>Learners will be able to identify all the components of a Portable Network Kit, and to describe their purpose.</li>
+	</ul>
+
+</div>
