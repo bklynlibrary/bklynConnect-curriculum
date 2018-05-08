@@ -8,7 +8,7 @@ Right now, the larger project lives at [https://github.com/mayawagon/bklynCONNEC
 
 ## How do I see where the site is right now?
 
-Go to [https://mayawagon.github.io/course-in-a-box/](https://mayawagon.github.io/course-in-a-box/). Soon we'll get a new name for the repository, and domain name. 
+Go to [https://bklynlibrary.github.io/bklynConnect-curriculum](https://bklynlibrary.github.io/bklynConnect-curriculum). Soon we'll get a new name for the repository, and domain name. 
 
 ## What template are you using?
 
