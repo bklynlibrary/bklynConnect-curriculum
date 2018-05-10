@@ -2,6 +2,8 @@
 
 ✨ _Curriculum for community-driven wireless, digital privacy, consent education_ ✨
 
+![Colorful graphic with images of different technology](/img/github-banner.png?raw=true "Colorful graphic with images of different technology")
+
 ## Welcome
 Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many people in Brooklyn to make wireless internet access and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
 
