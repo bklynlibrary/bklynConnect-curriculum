@@ -32,3 +32,8 @@ This course was created using the [Jekyll Course template from P2PU](http://gith
 - **Issue**: the GitHub term for tasks, enhancements, and bugs. Use these to let us know about things that are wrong or should be addressed. 
 - **DiscoTech**: Short for **Disco**vering **Tech**nology, this is a science-fair style community technology skill share event, where people from all walks of life in the neighborhood can teach and learn from one another about technology. 
 
+## MozSprint
+
+Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
+
+![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
