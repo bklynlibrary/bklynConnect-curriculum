@@ -7,7 +7,7 @@ Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many 
 
 This README file is meant to give you information about the curriculum as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project is being collaboratively designed and built in Brownsville, by youth participating in the Brownsville Community Justice Center's tech lab, trainers from the New America Resilient Communities program, and anyone in Brownsville who might benefit from the network. This repository\[1\] will be used for collaborating on an open[2], reusable community technology curriculum for the program. 
 
-- Visit the current iteration of [the curriculum site here](https://bklynlibrary.org/bklynConnect-curriculum/)
+- Visit the current iteration of [the curriculum site here](https://bklynlibrary.github.io/bklynConnect-curriculum/)
 - However, right now, the most complete version of the curriculum lives in [this google doc](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing)
 
 ## Why this is important
