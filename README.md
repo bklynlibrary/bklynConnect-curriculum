@@ -1,16 +1,24 @@
-# BklynConnect Open Curriculum
+# bklynCONNECT Open Curriculum
 
-This will be the open, online curriculum for BklynConnect, a cohort-based, project-driven course in wireless networking, digital privacy, and designing for consentfulness. 
+✨ _Curriculum for community-driven wireless, digital privacy, consent education_ ✨
 
-The course is still in progress, and currently the curriculum lives in [a living Google Doc](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing), but the hope is to port it to a simple to navigate website, and to incorporate ways for anyone to remix the curriculum for their own needs.
+## Welcome
+Hi! Through the Brooklyn Public Library, we're coordinating the efforts of many people in Brooklyn to make wireless internet access and equitable technology training a reality for Brooklyn residents. We're excited you want to participate!
 
-Right now, the larger project lives at [https://github.com/mayawagon/bklynCONNECT](https://github.com/mayawagon/bklynCONNECT) and the course website repo is at [https://github.com/mayawagon/datamoves](https://github.com/mayawagon/datamoves). These need to be combined or linked in some way. 
+This README file is meant to give you information about the curriculum as it develops, and to let you know how you and/or people in your community can contribute. A pilot of the project is being collaboratively designed and built in Brownsville, by youth participating in the Brownsville Community Justice Center's tech lab, trainers from the New America Resilient Communities program, and anyone in Brownsville who might benefit from the network. This repository\[1\] will be used for collaborating on an open[2], reusable community technology curriculum for the program. 
 
-## How do I see where the site is right now?
+- Visit the current iteration of [the curriculum site here](https://bklynlibrary.org/bklynConnect-curriculum/)
+- However, right now, the most complete version of the curriculum lives in [this google doc](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing)
 
-Go to [https://bklynlibrary.github.io/bklynConnect-curriculum](https://bklynlibrary.github.io/bklynConnect-curriculum). Soon we'll get a new name for the repository, and domain name. 
+## Why this is important
 
-## What template are you using?
+It can often feel like we have little control over our personal information, and by extension, our lives. Using the internet, or just existing in a connected world with sensors and monitoring technologies enables surveillance by law enforcement, parents, peers, and schools, can affect access to opportunities and resources, and can expose us in ways we never asked for. We want learners to build an understanding of how to personally control what information is transmitted, but also why and how governments, corporations, and nonprofit institutions use and control our data and communication tools, and how to make change in these systems (and how to build our own alternatives). 
+
+## How do we get this thing online?
+The course is still in progress, and currently the curriculum lives in [a living Google Doc](https://docs.google.com/document/d/1sZLhq8VYMmUQGTuuZ0I7k-LEnMXuVUUwcUOOeXRQPus/edit?usp=sharing), but we still need to port it to a simple-to-navigate website, and to incorporate ways for anyone to remix the curriculum for their own needs. Check out the [open issues](https://github.com/bklynlibrary/bklynConnect-curriculum/issues) to see what we still need help on.
+
+
+## What site template are you using?
 
 This course was created using the [Jekyll Course template from P2PU](http://github.com/p2pu/jekyll-course-template), using their guide for how to create an online course: [howto.p2pu.org](http://howto.p2pu.org). 
 
