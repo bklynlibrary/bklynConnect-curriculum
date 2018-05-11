@@ -1,0 +1,65 @@
+---
+title: Resources
+---
+
+# Resources
+
+[Teaching Community Technology Handbook](https://detroitcommunitytech.org/sites/default/files/librarypdfs/TeachingCommunityTech.pdf) by DCTP
+
+"This handbook focuses on teaching strategies that make learning technology accessible and
+relevant. Those new or old to teaching will find this book useful in creating community-rooted technology programming and educational materials. We believe sharing these teaching practices has the potential to diversify and shape technology fields to be community-oriented."
+
+[Popular Technology, by Virginia Eubanks](http://digitaldeadend.com/poptech/)
+
+"Popular Technology is a critical approach to thinking and acting in our shared technological present. It focuses on how science and technology impact our lives, work, families, and community every day. The practice is rooted in the belief that people closest to problems have the best information about them, and are most invested in creating smart solutions."
+
+Pedagogy of the Oppressed by Paulo Freire
+
+Foundational Critical Pedagogy text.
+
+[(Re)building Technology: Build-it-ourselves community networks](http://communitytechnology.github.io/)
+
+An open source, collective resource for digital stewardship, digital justice and community infrastructure, specifically mesh networks. These resources emphasize self-governance, participatory learning, collaborative design and sustainability.
+
+[Detroit Future Media Guide to Digital Literacy](https://www.alliedmedia.org/files/dfm_final_web.pdf) by DCTP/DFM
+
+The goal of this guide is to make Detroit Future Media's approach to digital literacy "open source" for other communities to use and adapt. The guide presents a history of Detroit Future Media, the theory and vision behind the program, program structure and selected curriculum, and documentation of program outcomes. Profiles of our extraordinary DFM students and instructors are presented throughout the guide.
+
+Detroit Future Schools
+
+"PIE has honed a set of instructional practices that engage students and educators in meaningful investigations of themselves, their communities and their classroom curriculum. We have also built planning and assessment tools that allow us to know when humanizing schooling is happening, and when it's not, and documentation tools that allow us to accurately describe our findings to others."
+
+[Internet Health Curriculum Guides](https://www.amcarrothers.com/internet-health-curriculum) by Ann Marie Carrothers
+
+[Mozilla Web Literacy Curriculum](https://docs.google.com/document/d/1kIAw1o6sBovnYX5S8mBxdrIFOF3AOMQz4zSOahOV4dA/edit)
+
+[Data Privacy Project Curriculum](https://dataprivacyproject.org/curriculum/)
+
+The Internet is Serious Business, by Center for Urban Pedagogy
+
+Dialed-in: A Cell Phone Literacy Toolkit, by Center for Urban Pedagogy
+
+[Code.org](https://code.org/)
+[Architecture of Radio](http://architectureofradio.com/) app
+
+[Seeing Networks in New York City](http://seeingnetworks.in/nyc/) by Ingrid Burrington
+
+Data and Civil Rights 2015 Conference: [Social Media and Law Enforcement Primer](http://www.datacivilrights.org/pubs/2015-1027/Social_Media_Surveillance_and_Law_Enforcement.pdf) (11pp)
+
+Data and Civil Rights 2015 Conference: [Predictive Policing Primer](http://www.datacivilrights.org/pubs/2015-1027/Predictive_Policing.pdf) (11pp)
+
+Data and Civil Rights 2015 Conference: [Criminal Justice and Civil Rights [Data] Primer](http://www.datacivilrights.org/pubs/2015-1027/Criminal_Justice_and_Civil_Rights_Primer.pdf) (10pp)
+
+Propublica: [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+Upturn: [Civil Rights, Big Data, and Our Algorithmic Future](https://bigdata.fairness.io/) (34pp)
+
+[Hostile Architecture](https://points.datasociety.net/hostile-architecture-electronic-monitoring-716dd03b44f5)
+
+[Data Detox Kit](https://datadetox.myshadow.org/detox)
+
+Dark Matters by Simone Browne
+
+[Data Privacy Project Curriculum](https://dataprivacyproject.org/curriculum/)
+
+[Library Freedom Project](https://libraryfreedomproject.org/resources/)
