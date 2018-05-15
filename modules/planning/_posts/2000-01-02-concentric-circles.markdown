@@ -1,5 +1,5 @@
 ---
-title: Concentric Circles of Participation
+title: Circles of Participation
 ---
 # Concentric Circles of Participation
 

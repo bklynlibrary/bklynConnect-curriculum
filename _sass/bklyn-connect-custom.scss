@@ -22,6 +22,10 @@ h1, .h1 {
 	margin-bottom: 60px;
 }
 
+.jumbotron header h1 {
+	font-size: 3em;
+}
+
 h2, .h2 {
 	text-transform: uppercase;
 	font-weight: 800;
@@ -34,4 +38,17 @@ h2, .h2 {
 	font-size: 16px;
 	line-height: 1.6;
 	margin: 0 0 15px;
+}
+
+.navbar-default {
+	background-color: $bklynConnect-blue;
+	border-bottom-color: $brand-primary;
+}
+
+.navbar-default .navbar-nav > li.active a, .navbar-default .navbar-nav > li.active a:hover, .navbar-default .navbar-nav > li.active a:focus {
+	background-color: $brand-primary;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	background-color: $brand-primary;
 }

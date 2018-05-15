@@ -7,6 +7,16 @@
 //
 //## Gray and brand colors for use across Bootstrap.
 
+$bklynConnect-blue: #005870;
+$bklynConnect-middleblue: #6a96ab;
+$bklynConnect-lightblue: #b8d4e1;
+$bklynConnect-burgundy: #5C1C36;
+$bklynConnect-pink: #B96E83;
+$bklynConnect-yellow: #E6B053;
+$bklynConnect-orange: #AC5F38;
+$bklynConnect-black: #191818;
+$bklynConnect-grey: #9FA1A0;
+
 $gray-darker:           #191818;
 $gray-dark:             #707782;
 $gray:                  #AAB0BF;
@@ -14,7 +24,7 @@ $gray-light:            #D3D8E6;
 $gray-lighter:          #F3F4F8;
 $gray-snow:             #FCFCFC;
 
-$brand-primary:         $gray-darker;
+$brand-primary:         $bklynConnect-middleblue;
 $brand-success:         #B7D500;
 $brand-info:            #05C6B4;
 $brand-warning:         #FFBC1A;
@@ -26,13 +36,7 @@ $p2pu-green:            $brand-success;
 $p2pu-blue:             $brand-info;
 $p2pu-yellow:           $brand-warning;
 
-$bklynConnect-blue: #005870;
-$bklynConnect-burgundy: #5C1C36;
-$bklynConnect-pink: #B96E83;
-$bklynConnect-yellow: #E6B053;
-$bklynConnect-orange: #AC5F38;
-$bklynConnect-black: #191818;
-$bklynConnect-grey: #9FA1A0;
+
 
 $white:                 #FFFFFF;
 
@@ -44,10 +48,10 @@ $white:                 #FFFFFF;
 //** Background color for `<body>`.
 $body-bg:               #fff;
 //** Global text color on `<body>`.
-$text-color:            $brand-primary;
+$text-color:            $bklynConnect-black;
 
 //** Global textual link color.
-$link-color:            #5F9EA0;
+$link-color:            $bklynConnect-blue;
 //** Link hover color set via `darken()` function.
 $link-hover-color:      $link-color;
 
@@ -236,7 +240,7 @@ $dropdown-fallback-border:       #ccc;
 $dropdown-divider-bg:            #e5e5e5;
 
 //** Dropdown link text color.
-$dropdown-link-color:            $gray-dark;
+$dropdown-link-color:            $brand-primary;
 //** Hover color for dropdown links.
 $dropdown-link-hover-color:      #fff;
 //** Hover background for dropdown links.
@@ -708,8 +712,8 @@ $panel-inner-border:          $gray-lighter;
 $panel-footer-bg:             $gray;
 
 $panel-default-text:          $white;
-$panel-default-border:        $gray-dark;
-$panel-default-heading-bg:    $gray-dark;
+$panel-default-border:        $brand-primary;
+$panel-default-heading-bg:    $brand-primary;
 
 $panel-primary-text:          #fff;
 $panel-primary-border:        $brand-primary;
