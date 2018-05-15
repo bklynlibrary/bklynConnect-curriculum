@@ -4,20 +4,22 @@ title: Using this Guide
 
 # How to Use This Guide
 
-This site documents the Spring 2018 BklynConnect Tech Lab Cohort, but also is meant to share useful resources for any educational setting. 
+This site documents the Spring 2018 BklynConnect Tech Lab Cohort, but also is meant to share resources that could be useful in any educational setting. 
 
-This module is meant to be useful throughout your engagement, whether it is an hour long, or a year. It includes a guide to soliciting democratic participation in your community technology project, to planning a curriculum based on the outcomes you'd like to see, to facilitate effectively, and to documenting, evaluating, and growing your project beyond your group. 
+This first module is meant to be useful throughout your engagement, whether it is an hour long, or over a year. It includes a guide to soliciting democratic participation in your community technology project, to planning a curriculum based on the outcomes you'd like to see, to facilitate effectively, and to documenting, evaluating, and growing your project beyond your group. 
 
-We recommend that you read this whole section, then grab modules and lesson plans as-needed from the Data & Privacy, Prototyping Consent, and Portable Network Kit modules. 
+We recommend that you read through this whole module, then incorporate lesson plans and othr pieces as-needed from the Data & Privacy, Prototyping Consent, and Portable Network Kit modules. 
 
 Every educational setting starts with a plan, and with setting the scene, followed by the lesson, and documentation and evaluation. 
 
-
 ## Remix, Respond, Relay 
 
-This is an open curriculum, meaning that we *want* your critique, feedback, and suggestions and ultimately, for you to steal it, make it yours, and share it forward. 
+This is an open curriculum, meaning that we *want* your critique, feedback, and suggestions and ultimately, for you to "steal" it, make it yours, and share it forward. 
 
 **Have you used anything from this guide in your setting?**
+
 **Do you have a better way to teach something in this guide?**
+
 **Do you have a lesson that fills in a missing piece?**
+
 **Do you have any advice for future people using or making a guide like this?**

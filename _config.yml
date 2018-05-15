@@ -34,5 +34,5 @@ plugins:
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#005870"
-jumbotron_background_image: "header.svg"
+jumbotron_background_image: "colorful-gradient-background.png"
 jumbotron_image: "emerge-white.png"
