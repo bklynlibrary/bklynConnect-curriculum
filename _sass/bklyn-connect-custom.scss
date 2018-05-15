@@ -15,3 +15,23 @@
 		color: yellow;
 	}
 }
+
+h1, .h1 {
+	text-transform: uppercase;
+	font-weight: 800;
+	margin-bottom: 60px;
+}
+
+h2, .h2 {
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 18px;
+	color: $bklynConnect-orange;
+	margin-bottom: 5px;
+}
+
+.content > p {
+	font-size: 16px;
+	line-height: 1.6;
+	margin: 0 0 15px;
+}

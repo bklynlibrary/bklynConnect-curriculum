@@ -7,7 +7,7 @@
 //
 //## Gray and brand colors for use across Bootstrap.
 
-$gray-darker:           #515665;
+$gray-darker:           #191818;
 $gray-dark:             #707782;
 $gray:                  #AAB0BF;
 $gray-light:            #D3D8E6;
@@ -25,6 +25,14 @@ $p2pu-orange:           $brand-danger;
 $p2pu-green:            $brand-success;
 $p2pu-blue:             $brand-info;
 $p2pu-yellow:           $brand-warning;
+
+$bklynConnect-blue: #005870;
+$bklynConnect-burgundy: #5C1C36;
+$bklynConnect-pink: #B96E83;
+$bklynConnect-yellow: #E6B053;
+$bklynConnect-orange: #AC5F38;
+$bklynConnect-black: #191818;
+$bklynConnect-grey: #9FA1A0;
 
 $white:                 #FFFFFF;
 
@@ -48,7 +56,7 @@ $link-hover-color:      $link-color;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  "CircularStd", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
