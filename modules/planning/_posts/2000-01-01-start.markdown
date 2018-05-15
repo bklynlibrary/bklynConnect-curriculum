@@ -6,9 +6,11 @@ title: Using this Guide
 
 This site documents the Spring 2018 BklynConnect Tech Lab Cohort, but also is meant to share resources that could be useful in any educational setting. 
 
-This first module is meant to be useful throughout your engagement, whether it is an hour long, or over a year. It includes a guide to soliciting democratic participation in your community technology project, to planning a curriculum based on the outcomes you'd like to see, to facilitate effectively, and to documenting, evaluating, and growing your project beyond your group. 
+This **Start** module is meant to be useful throughout your project, whether it's an hour long, or lasts more than a year. **Start** includes a guide on how to solicit democratic participation in your community technology project, to plan a curriculum based on the outcomes you'd like to see, to facilitate effectively, and to document, evaluate, and grow your project beyond yourself and your group. 
 
-We recommend that you read through this whole module, then incorporate lesson plans and othr pieces as-needed from the Data & Privacy, Prototyping Consent, and Portable Network Kit modules. 
+We recommend that you read through all of **Start**, then incorporate lesson plans and other pieces as-needed from the **[Data & Privacy](/bklynConnect-curriculum/modules/data & privacy/overview/)**, **[Prototyping Consent](/bklynConnect-curriculum/modules/prototyping%20consent/start/)**, and **[Portable Network Kits](/bklynConnect-curriculum/modules/portable network kits/start/)** modules. 
+
+## Making a Learning Sandwich 
 
 Every educational setting starts with a plan, and with setting the scene, followed by the lesson, and documentation and evaluation. 
 
