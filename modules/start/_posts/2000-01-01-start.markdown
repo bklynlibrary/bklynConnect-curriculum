@@ -1,0 +1,47 @@
+---
+title: Using this Guide
+---
+
+# How to Use This Guide
+
+This site documents the Spring 2018 BklynConnect Tech Lab Cohort, but also is meant to share resources that could be useful in any educational setting. 
+
+This **Start** module is meant to be useful throughout your project, whether it's an hour long, or lasts more than a year. **Start** includes a guide on how to solicit democratic participation in your community technology project, to plan a curriculum based on the outcomes you'd like to see, to facilitate effectively, and to document, evaluate, and grow your project beyond yourself and your group. 
+
+We recommend that you read through all of **Start**, then incorporate lesson plans and other pieces as-needed from the **[Data & Privacy](/bklynConnect-curriculum/modules/data & privacy/overview/)**, **[Prototyping Consent](/bklynConnect-curriculum/modules/prototyping%20consent/start/)**, and **[Portable Network Kits](/bklynConnect-curriculum/modules/portable network kits/start/)** modules. 
+
+## Making a Learning Sandwich 
+
+Every educational setting starts with a plan, and with setting the scene, followed by the lesson, and documentation and evaluation. 
+
+![sandwich illustration](http://www.vectordiary.com/isd_premium/083-sandwich/final-image.jpg)
+
+### Plan
+
+Use the [Backwards Design Method](/bklynConnect-curriculum/modules/start/backwards-design/) to think through, and document what it is that you want learners to get out of their participation. You can revisit this plan as your project progresses and you understand what your learners want to learn, so don't worry about having it all figured out right now. 
+
+### Set the Scene
+
+When people arrive to your meeting, class, or event, set up the room to reflect the environment you're trying to cultivate, and set the tone with an icebreaker. Sometimes you'll want people's invividuality and humor to shine, and you might consider what makes a space comfortable. Is it music? Food? Activities for kids, so that parents can participate?
+
+### Content 
+
+This is the material you want people to learn, but also the way that you facilitate (a.k.a. make easier) that learning. What kinds of activities make sense for all of your learners different learning styles? What kinds of materials and time will you need? For more information on facilitation, see the [Facilitation Fundamentals](/bklynConnect-curriculum/modules/start/facilitation-fundamentals/) section.
+
+Content can be found in the lesson plans of the **[Data & Privacy](/bklynConnect-curriculum/modules/data & privacy/overview/)**, **[Prototyping Consent](/bklynConnect-curriculum/modules/prototyping%20consent/start/)**, and **[Portable Network Kits](/bklynConnect-curriculum/modules/portable network kits/start/)** modules (and elsewhere on the internet and in your local library), but don't forget the other parts of the sandwich!
+
+## Document and Evaluate
+
+Don't forget to document as much of the process as possible (with the consent of your participants, of course). Take photos, have participants write blog posts, debrief afterwards, and create projects that learners can share. While documentation and evaluation are typically thought of as things that happen after a process is over, it's helpful to find ways to incorporate these throughout. See the [Document & Replicate](/bklynConnect-curriculum/modules/start/documentation-evaluation/) section for information on how to do this. 
+
+## Remix, Respond, Relay 
+
+This is an open curriculum, meaning that we *want* your critique, feedback, and suggestions and ultimately, for you to "steal" it, make it yours, and share it forward. 
+
+**Have you used anything from this guide in your setting?**
+
+**Do you have a better way to teach something in this guide?**
+
+**Do you have a lesson that fills in a missing piece?**
+
+**Do you have any advice for future people using or making a guide like this?**
