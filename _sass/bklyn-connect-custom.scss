@@ -6,13 +6,13 @@
 }
 
 .under-construction {
-	background-color: #c85bb3 ;
+	background-color: $bklynConnect-yellow ;
 	padding: 1em 0.5em 0.5em 0.8em;
 	text-align: center;
 	font-size: 1.2em;
-	color: #fff;
+	color: $white;
 	a {
-		color: yellow;
+		color: $bklynConnect-pink;
 	}
 }
 
